@@ -1,0 +1,6 @@
+package problem_domain;
+
+public class SudokuGame {
+	private final GameState gameState;
+	private final int[][] gridState;
+}
